@@ -16,38 +16,29 @@ header {
   body {
    display: inline-block; 
    font-family: Helvetica, Arial, Sans-serif;
-    background-color: none;
+    background-color: grey;
     color: #333;
  }
 
- .visuals {
-  display: inline-block;
-  background-color: none;
- }
 
- .jobs {
-  stroke-opacity: 1;
-  stroke: black;
-  fill: red;
-  
- }
-
- .tech {
-  stroke-opacity: 1;
-  stroke-width: 2;
- }
-
- .link {
-  stroke: black;
-  stroke-opacity: 1;
+.node circle {
+  fill: steelblue;
+  stroke: white;
   stroke-width: 1px;
- }
+}
 
- #text {
-  font-weight: 10;
-  font-family: Helvetica;
+.node {
+  font: 10px sans-serif;
   color: black;
- }
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+
+
 
 
 

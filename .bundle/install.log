@@ -1,0 +1,27 @@
+# Logfile created on 2014-02-13 10:49:22 +0000 by logger.rb/41954
+I, [2014-02-13T10:49:22.322734 #70573]  INFO -- : 0:  backports (3.5.0) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/backports-3.5.0.gemspec
+I, [2014-02-13T10:49:22.323392 #70573]  INFO -- : 0:  mime-types (2.1) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/mime-types-2.1.gemspec
+I, [2014-02-13T10:49:22.323875 #70573]  INFO -- : 0:  mini_portile (0.5.2) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/mini_portile-0.5.2.gemspec
+I, [2014-02-13T10:49:22.324315 #70573]  INFO -- : 0:  nokogiri (1.6.1) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/nokogiri-1.6.1.gemspec
+I, [2014-02-13T10:49:22.324756 #70573]  INFO -- : 0:  rack (1.5.2) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-02-13T10:49:22.325192 #70573]  INFO -- : 0:  rack-test (0.6.2) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/rack-test-0.6.2.gemspec
+I, [2014-02-13T10:49:22.325652 #70573]  INFO -- : 0:  xpath (2.0.0) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/xpath-2.0.0.gemspec
+I, [2014-02-13T10:49:22.326025 #70573]  INFO -- : 0:  capybara (2.2.1) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/capybara-2.2.1.gemspec
+I, [2014-02-13T10:49:22.326363 #70573]  INFO -- : 0:  database_cleaner (1.2.0) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/database_cleaner-1.2.0.gemspec
+I, [2014-02-13T10:49:22.326688 #70573]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-02-13T10:49:22.327021 #70573]  INFO -- : 0:  json (1.8.1) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-02-13T10:49:22.327349 #70573]  INFO -- : 0:  multi_xml (0.5.5) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/multi_xml-0.5.5.gemspec
+I, [2014-02-13T10:49:22.327670 #70573]  INFO -- : 0:  httparty (0.12.0) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/httparty-0.12.0.gemspec
+I, [2014-02-13T10:49:22.328010 #70573]  INFO -- : 0:  multi_json (1.8.4) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/multi_json-1.8.4.gemspec
+I, [2014-02-13T10:49:22.328338 #70573]  INFO -- : 0:  rack-protection (1.5.2) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.2.gemspec
+I, [2014-02-13T10:49:22.328659 #70573]  INFO -- : 0:  rspec-core (2.14.7) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-core-2.14.7.gemspec
+I, [2014-02-13T10:49:22.328991 #70573]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-02-13T10:49:22.329343 #70573]  INFO -- : 0:  rspec-mocks (2.14.5) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-mocks-2.14.5.gemspec
+I, [2014-02-13T10:49:22.329686 #70573]  INFO -- : 0:  rspec (2.14.1) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/rspec-2.14.1.gemspec
+I, [2014-02-13T10:49:22.330004 #70573]  INFO -- : 0:  shotgun (0.9) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/shotgun-0.9.gemspec
+I, [2014-02-13T10:49:22.330327 #70573]  INFO -- : 0:  tilt (1.4.1) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-02-13T10:49:22.330647 #70573]  INFO -- : 0:  sinatra (1.4.4) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.4.gemspec
+I, [2014-02-13T10:49:22.330964 #70573]  INFO -- : 0:  sinatra-contrib (1.4.2) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-contrib-1.4.2.gemspec
+I, [2014-02-13T10:49:22.331283 #70573]  INFO -- : 0:  sinatra-partial (0.4.0) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-partial-0.4.0.gemspec
+I, [2014-02-13T10:49:22.331637 #70573]  INFO -- : 0:  stackable (0.0.1) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/stackable-0.0.1.gemspec
+I, [2014-02-13T10:49:22.331955 #70573]  INFO -- : 0:  bundler (1.5.1) from /Users/m/.rvm/gems/ruby-2.0.0-p353/specifications/bundler-1.5.1.gemspec
