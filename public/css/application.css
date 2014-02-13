@@ -1,0 +1,54 @@
+header {
+   width: 100%;
+   height: 30px;
+   background-color: black;
+   color: white;
+   display: flex;
+   padding: 0 5px;
+ }
+ 
+ header #logo {
+   margin: auto 0;
+   display: flex;  
+   font-family: Helvetica, Arial, Sans-serif;
+  }
+
+  body {
+   display: inline-block; 
+   font-family: Helvetica, Arial, Sans-serif;
+    background-color: none;
+    color: #333;
+ }
+
+ .visuals {
+  display: inline-block;
+  background-color: none;
+ }
+
+ .jobs {
+  stroke-opacity: 1;
+  stroke: black;
+  fill: red;
+  
+ }
+
+ .tech {
+  stroke-opacity: 1;
+  stroke-width: 2;
+ }
+
+ .link {
+  stroke: black;
+  stroke-opacity: 1;
+  stroke-width: 1px;
+ }
+
+ #text {
+  font-weight: 10;
+  font-family: Helvetica;
+  color: black;
+ }
+
+
+
+
