@@ -20,7 +20,7 @@ end
 
 
 root = {name: "Stack Overflow", children: []}
-['London', 'Paris', 'New%20York'].each do |city|
+['paris', 'berlin'].each do |city|
 	root[:children] << { name: city, children: jobs_city(city)  }
 end
 

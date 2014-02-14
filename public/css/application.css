@@ -1,41 +1,43 @@
-header {
+/*header {
    width: 100%;
    height: 30px;
    background-color: black;
    color: white;
    display: flex;
    padding: 0 5px;
- }
+ }*/
  
- header #logo {
+/* header #logo {
    margin: auto 0;
    display: flex;  
    font-family: Helvetica, Arial, Sans-serif;
-  }
+  }*/
 
   body {
    display: inline-block; 
    font-family: Helvetica, Arial, Sans-serif;
-    background-color: grey;
+    background-color: white;
     color: #333;
+    font-size: 1px;
  }
 
 
 .node circle {
-  fill: steelblue;
-  stroke: white;
+  fill: #FBF5F4;
+  stroke: #B7B6E7;
   stroke-width: 1px;
 }
 
 .node {
-  font: 10px sans-serif;
+  font: 12px sans-serif;
   color: black;
+  /*font-size: 7px;*/
 }
 
 .link {
   fill: none;
   stroke: #ccc;
-  stroke-width: 1.5px;
+  stroke-width: 1px;
 }
 
 
